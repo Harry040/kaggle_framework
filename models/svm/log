@@ -1,0 +1,32 @@
+2016-04-17 23:05:15,622 - app.svm -svm.py - INFO - CalibratedClassifierCV(base_estimator=SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False),
+            cv=5, method='sigmoid')
+2016-04-17 23:07:02,834 - app.svm -svm.py - INFO - CalibratedClassifierCV(base_estimator=SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=True),
+            cv=5, method='sigmoid')
+2016-04-19 20:14:43,035 - app.svm -svm.py - INFO - SVC(C=1.9, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=True)
+2016-04-22 11:16:37,288 - app.svm -svm.py - INFO - start fit
+2016-04-22 19:06:55,594 - app.svm -svm.py - INFO - start fit
+2016-04-22 20:07:25,798 - app.svm -svm.py - INFO - start fit
+2016-04-22 21:29:49,963 - app.svm -svm.py - INFO - score 0.582936238047
+2016-04-24 17:46:08,880 - app.svm -svm.py - INFO - SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=True)
+2016-04-24 17:47:51,684 - app.svm -svm.py - INFO - SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=True)
+2016-04-24 17:48:21,486 - app.svm -svm.py - INFO - index 0, this score 0.76864107385
+2016-04-24 17:48:50,887 - app.svm -svm.py - INFO - index 1, this score 0.751508574257
+2016-04-24 17:49:21,605 - app.svm -svm.py - INFO - index 2, this score 0.760287091584
+2016-04-24 17:49:51,962 - app.svm -svm.py - INFO - index 3, this score 0.756521553849
+2016-04-24 17:50:22,795 - app.svm -svm.py - INFO - index 4, this score 0.759344988435
+2016-04-24 17:50:22,951 - app.svm -svm.py - INFO - cv socre 0.759266334545

@@ -1,0 +1,76 @@
+2016-04-26 22:08:30,005 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-26 22:09:06,287 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-26 22:09:06,969 - app.rf -lr.py - INFO - index 0, this score 0.576902916103
+2016-04-26 22:09:07,245 - app.rf -lr.py - INFO - index 1, this score 0.624893094601
+2016-04-26 22:09:07,512 - app.rf -lr.py - INFO - index 2, this score 0.633652440202
+2016-04-26 22:09:07,788 - app.rf -lr.py - INFO - index 3, this score 0.580948524946
+2016-04-26 22:09:08,053 - app.rf -lr.py - INFO - index 4, this score 0.607707455325
+2016-04-26 22:12:36,578 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-26 22:12:37,111 - app.rf -lr.py - INFO - index 0, this score 0.576902916103
+2016-04-26 22:12:37,413 - app.rf -lr.py - INFO - index 1, this score 0.624893094601
+2016-04-26 22:12:37,720 - app.rf -lr.py - INFO - index 2, this score 0.633652440202
+2016-04-26 22:12:38,070 - app.rf -lr.py - INFO - index 3, this score 0.580948524946
+2016-04-26 22:12:38,393 - app.rf -lr.py - INFO - index 4, this score 0.607707455325
+2016-04-26 22:17:04,277 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-26 22:17:04,795 - app.rf -lr.py - INFO - index 0, this score 0.576902916103
+2016-04-26 22:17:05,077 - app.rf -lr.py - INFO - index 1, this score 0.624893094601
+2016-04-26 22:17:05,352 - app.rf -lr.py - INFO - index 2, this score 0.633652440202
+2016-04-26 22:17:05,667 - app.rf -lr.py - INFO - index 3, this score 0.580948524946
+2016-04-26 22:17:05,957 - app.rf -lr.py - INFO - index 4, this score 0.607707455325
+2016-04-26 22:24:02,604 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-26 22:24:03,331 - app.rf -lr.py - INFO - index 0, this score 0.576902916103
+2016-04-26 22:24:03,614 - app.rf -lr.py - INFO - index 1, this score 0.624893094601
+2016-04-26 22:24:03,876 - app.rf -lr.py - INFO - index 2, this score 0.633652440202
+2016-04-26 22:24:04,170 - app.rf -lr.py - INFO - index 3, this score 0.580948524946
+2016-04-26 22:24:04,450 - app.rf -lr.py - INFO - index 4, this score 0.607707455325
+2016-04-26 22:32:44,930 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-26 22:34:05,830 - app.rf -lr.py - INFO - index 0, this score 0.790959703588
+2016-04-26 22:35:24,800 - app.rf -lr.py - INFO - index 1, this score 0.775774410801
+2016-04-26 22:36:40,290 - app.rf -lr.py - INFO - index 2, this score 0.802221490616
+2016-04-26 22:38:33,687 - app.rf -lr.py - INFO - index 3, this score 0.800203787642
+2016-04-26 22:40:12,928 - app.rf -lr.py - INFO - index 4, this score 0.787064874527
+2016-04-27 20:42:05,261 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-27 20:42:05,739 - app.rf -lr.py - INFO - index 0, this score 0.576902916103
+2016-04-27 20:42:05,961 - app.rf -lr.py - INFO - index 1, this score 0.624893094601
+2016-04-27 20:42:06,178 - app.rf -lr.py - INFO - index 2, this score 0.633652440202
+2016-04-27 20:42:06,407 - app.rf -lr.py - INFO - index 3, this score 0.580948524946
+2016-04-27 20:42:06,618 - app.rf -lr.py - INFO - index 4, this score 0.607707455325
+2016-04-27 20:45:29,815 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-27 20:45:30,259 - app.rf -lr.py - INFO - index 0, this score 0.576902916103
+2016-04-27 20:45:30,476 - app.rf -lr.py - INFO - index 1, this score 0.624893094601
+2016-04-27 20:45:30,694 - app.rf -lr.py - INFO - index 2, this score 0.633652440202
+2016-04-27 20:45:30,930 - app.rf -lr.py - INFO - index 3, this score 0.580948524946
+2016-04-27 20:45:31,145 - app.rf -lr.py - INFO - index 4, this score 0.607707455325
+2016-04-27 21:18:00,834 - app.rf -lr.py - INFO - LogisticRegression(C=1.7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=200, multi_class='ovr', n_jobs=-1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=False, warm_start=False)
+2016-04-27 21:19:12,319 - app.rf -lr.py - INFO - index 0, this score 0.790959703588
+2016-04-27 21:20:22,006 - app.rf -lr.py - INFO - index 1, this score 0.775774410801
+2016-04-27 21:21:30,570 - app.rf -lr.py - INFO - index 2, this score 0.802221490616
+2016-04-27 21:23:04,121 - app.rf -lr.py - INFO - index 3, this score 0.800203787642
+2016-04-27 21:24:27,153 - app.rf -lr.py - INFO - index 4, this score 0.787064874527

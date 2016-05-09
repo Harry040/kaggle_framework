@@ -1,0 +1,118 @@
+2016-04-16 16:22:28,266 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=2,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+2016-04-16 16:22:40,974 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=2,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+2016-04-16 16:24:37,697 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=2,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+2016-04-16 16:24:56,466 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=2,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+2016-04-16 16:29:34,720 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=2,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+2016-04-16 16:31:23,178 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+2016-04-16 16:35:29,942 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=5, n_jobs=2,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+2016-04-16 16:36:13,886 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+2016-04-16 16:52:08,862 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=None, verbose=True,
+            warm_start=False)
+2016-04-16 17:13:01,819 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=6,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=None, verbose=True,
+            warm_start=False)
+2016-04-16 17:19:35,470 - app.rf -rf.py - INFO - CalibratedClassifierCV(base_estimator=RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=6,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=None, verbose=True,
+            warm_start=False),
+            cv=5, method='sigmoid')
+2016-04-16 17:20:40,517 - app.rf -rf.py - INFO - CalibratedClassifierCV(base_estimator=RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=None, verbose=True,
+            warm_start=False),
+            cv=5, method='sigmoid')
+2016-04-16 17:28:49,691 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=6,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=None, verbose=True,
+            warm_start=False)
+2016-04-16 17:31:34,517 - app.rf -rf.py - INFO - CalibratedClassifierCV(base_estimator=RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=6,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=None, verbose=True,
+            warm_start=False),
+            cv=5, method='sigmoid')
+2016-04-24 17:38:27,484 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=6,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=10, verbose=None,
+            warm_start=False)
+2016-04-24 17:39:28,415 - app.rf -rf.py - INFO - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=6,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=10, verbose=None,
+            warm_start=False)
+2016-04-24 17:39:32,890 - app.rf -rf.py - INFO - index 0, this score 0.753673714953
+2016-04-24 17:39:36,607 - app.rf -rf.py - INFO - index 1, this score 0.758474262821
+2016-04-24 17:39:40,279 - app.rf -rf.py - INFO - index 2, this score 0.746885153488
+2016-04-24 17:39:43,998 - app.rf -rf.py - INFO - index 3, this score 0.761561320327
+2016-04-24 17:39:47,910 - app.rf -rf.py - INFO - index 4, this score 0.775941815275
+2016-04-24 17:39:48,068 - app.rf -rf.py - INFO - cv socre 0.759300620343
+2016-04-24 17:41:14,023 - app.rf -rf.py - INFO - CalibratedClassifierCV(base_estimator=RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=6,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=4,
+            oob_score=False, random_state=10, verbose=None,
+            warm_start=False),
+            cv=5, method='sigmoid')
+2016-04-24 17:41:33,184 - app.rf -rf.py - INFO - index 0, this score 0.67424168665
+2016-04-24 17:41:51,449 - app.rf -rf.py - INFO - index 1, this score 0.670677459804
+2016-04-24 17:42:09,708 - app.rf -rf.py - INFO - index 2, this score 0.669056162986
+2016-04-24 17:42:27,965 - app.rf -rf.py - INFO - index 3, this score 0.687898950384
+2016-04-24 17:42:46,343 - app.rf -rf.py - INFO - index 4, this score 0.691154573865
+2016-04-24 17:42:46,498 - app.rf -rf.py - INFO - cv socre 0.678599618843

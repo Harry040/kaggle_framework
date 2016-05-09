@@ -1,0 +1,37 @@
+2016-04-26 19:03:09,566 - app.xgb -xgb.py - INFO - XGBClassifier(base_score=0.5, colsample_bylevel=1, colsample_bytree=0.3,
+       gamma=0, learning_rate=0.04, max_delta_step=0, max_depth=8,
+       min_child_weight=5, missing=None, n_estimators=100, nthread=4,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=700,
+       scale_pos_weight=15, seed=0, silent=False, subsample=0.7)
+2016-04-26 19:05:13,902 - app.xgb -xgb.py - INFO - XGBClassifier(base_score=0.5, colsample_bylevel=1, colsample_bytree=0.3,
+       gamma=0, learning_rate=0.04, max_delta_step=0, max_depth=8,
+       min_child_weight=5, missing=None, n_estimators=100, nthread=4,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=700,
+       scale_pos_weight=15, seed=0, silent=False, subsample=0.7)
+2016-04-26 19:06:45,204 - app.xgb -xgb.py - INFO - XGBClassifier(base_score=0.5, colsample_bylevel=1, colsample_bytree=0.3,
+       gamma=0, learning_rate=0.04, max_delta_step=0, max_depth=8,
+       min_child_weight=5, missing=None, n_estimators=100, nthread=4,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=700,
+       scale_pos_weight=15, seed=0, silent=False, subsample=0.7)
+2016-04-26 19:10:40,580 - app.xgb -xgb.py - INFO - XGBClassifier(base_score=0.5, colsample_bylevel=1, colsample_bytree=0.3,
+       gamma=0, learning_rate=0.04, max_delta_step=0, max_depth=8,
+       min_child_weight=5, missing=None, n_estimators=100, nthread=4,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=700,
+       scale_pos_weight=15, seed=0, silent=False, subsample=0.7)
+2016-04-26 19:17:51,253 - app.xgb -xgb.py - INFO - index 0, this score 0.417858251559
+2016-04-26 19:17:59,186 - app.xgb -xgb.py - INFO - index 1, this score 0.42946372257
+2016-04-26 19:18:07,512 - app.xgb -xgb.py - INFO - index 2, this score 0.420916247721
+2016-04-26 19:18:15,818 - app.xgb -xgb.py - INFO - index 3, this score 0.417720078293
+2016-04-26 19:18:23,725 - app.xgb -xgb.py - INFO - index 4, this score 0.424027794111
+2016-04-26 19:18:23,761 - app.xgb -xgb.py - INFO - cv socre 0.421997484634
+2016-04-26 20:03:13,190 - app.xgb -xgb.py - INFO - XGBClassifier(base_score=0.5, colsample_bylevel=1, colsample_bytree=0.3,
+       gamma=0, learning_rate=0.04, max_delta_step=0, max_depth=8,
+       min_child_weight=5, missing=None, n_estimators=1500, nthread=4,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=700,
+       scale_pos_weight=15, seed=0, silent=False, subsample=0.7)
+2016-04-26 20:23:52,815 - app.xgb -xgb.py - INFO - index 0, this score 0.318866925093
+2016-04-26 21:00:36,520 - app.xgb -xgb.py - INFO - index 0, this score 0.823324657042
+2016-04-26 21:21:11,963 - app.xgb -xgb.py - INFO - index 1, this score 0.819806060876
+2016-04-26 22:16:53,864 - app.xgb -xgb.py - INFO - index 2, this score 0.837257878022
+2016-04-26 22:33:44,825 - app.xgb -xgb.py - INFO - index 3, this score 0.845687664786
+2016-04-26 22:51:18,454 - app.xgb -xgb.py - INFO - index 4, this score 0.827554336344
